@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hi, I'm Jeremy</h1>
+  <h1>👋 Hi, I'm CJeremy</h1>
   <p>Senior High School Student | AI Enthusiast | Web Developer</p>
 </div>
 
@@ -21,7 +21,7 @@ I'm a high school student, also a developer passionate about building innovative
 
 <div align="center">
 
-[![Gemini Web App](https://github-readme-stats.vercel.app/api/pin/?username=c-jeremy&repo=gemini-web-app&theme=dark)](https://github.com/c-jeremy/gemini-web-app)
+[![Gemini Web Chat](https://github-readme-stats.vercel.app/api/pin/?username=c-jeremy&repo=gemini-web-chat&theme=dark)](https://github.com/c-jeremy/gemini-web-chat)
 
 Not much right now -- studying for Gaokao currently.
 
