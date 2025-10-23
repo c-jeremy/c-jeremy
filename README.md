@@ -23,6 +23,8 @@ I'm a high school student, also a developer passionate about building innovative
 
 [![Gemini Web Chat](https://github-readme-stats.vercel.app/api/pin/?username=c-jeremy&repo=gemini-web-chat&theme=dark)](https://github.com/c-jeremy/gemini-web-chat)
 
+[![XNY Ultra](https://github-readme-stats.vercel.app/api/pin/?username=c-jeremy&repo=pkus-xny-ultra&theme=dark)](https://github.com/c-jeremy/pkus-xny-ultra)
+
 Not much right now -- studying for Gaokao currently.
 
 </div>
