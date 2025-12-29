@@ -25,6 +25,9 @@ I'm a high school student, also a developer passionate about building innovative
 
 [![XNY Ultra](https://github-readme-stats.vercel.app/api/pin/?username=c-jeremy&repo=pkus-xny-ultra&theme=dark)](https://github.com/c-jeremy/pkus-xny-ultra)
 
+
+[![QuickSend](https://github-readme-stats.vercel.app/api/pin/?username=c-jeremy&repo=quicksend&theme=dark)](https://github.com/c-jeremy/quicksend)
+
 Not much right now -- studying for Gaokao currently.
 
 </div>
