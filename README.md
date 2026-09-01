@@ -1,13 +1,13 @@
 <div align="center">
-  <h1>👋 Hi, I'm CJeremy</h1>
-  <p>Senior High School Student | AI Enthusiast | Web Developer</p>
+  <h1>👋 Hi, I'm <a href="//cjeremy.com/">CJeremy</a></h1>
+  <p>Uni Student | AI Enthusiast | Web Developer</p>
 </div>
 
 ---
 
 ### 🚀 About Me
 
-I'm a high school student, also a developer passionate about building innovative applications at the intersection of web development and artificial intelligence. I (try hard to) create things that are (possibly not) cool.
+I'm a uni student, also a developer passionate about building innovative applications at the intersection of web development and artificial intelligence. I (try hard to) create things that are (possibly not) cool.
 
 ### 💻 Tech Stack
 
@@ -17,20 +17,7 @@ I'm a high school student, also a developer passionate about building innovative
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🌟 My Projects
 
-<div align="center">
-
-[![Gemini Web Chat](https://github-readme-stats.vercel.app/api/pin/?username=c-jeremy&repo=gemini-web-chat&theme=dark)](https://github.com/c-jeremy/gemini-web-chat)
-
-[![XNY Ultra](https://github-readme-stats.vercel.app/api/pin/?username=c-jeremy&repo=pkus-xny-ultra&theme=dark)](https://github.com/c-jeremy/pkus-xny-ultra)
-
-
-[![QuickSend](https://github-readme-stats.vercel.app/api/pin/?username=c-jeremy&repo=quicksend&theme=dark)](https://github.com/c-jeremy/quicksend)
-
-Not much right now -- studying for Gaokao currently.
-
-</div>
 
 ### 📊 GitHub Stats
 
